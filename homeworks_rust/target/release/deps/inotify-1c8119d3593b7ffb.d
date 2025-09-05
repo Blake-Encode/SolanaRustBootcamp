@@ -1,0 +1,12 @@
+/workspace/SolanaRustBootcamp/homeworks_rust/target/release/deps/inotify-1c8119d3593b7ffb.d: /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/events.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/fd_guard.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/inotify.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/util.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/watches.rs
+
+/workspace/SolanaRustBootcamp/homeworks_rust/target/release/deps/libinotify-1c8119d3593b7ffb.rlib: /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/events.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/fd_guard.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/inotify.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/util.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/watches.rs
+
+/workspace/SolanaRustBootcamp/homeworks_rust/target/release/deps/libinotify-1c8119d3593b7ffb.rmeta: /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/events.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/fd_guard.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/inotify.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/util.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/watches.rs
+
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/events.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/fd_guard.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/inotify.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/util.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inotify-0.7.1/src/watches.rs:

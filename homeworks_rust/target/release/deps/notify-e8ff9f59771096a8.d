@@ -1,0 +1,12 @@
+/workspace/SolanaRustBootcamp/homeworks_rust/target/release/deps/notify-e8ff9f59771096a8.d: /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/inotify.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/null.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/poll.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/mod.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/timer.rs
+
+/workspace/SolanaRustBootcamp/homeworks_rust/target/release/deps/libnotify-e8ff9f59771096a8.rlib: /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/inotify.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/null.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/poll.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/mod.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/timer.rs
+
+/workspace/SolanaRustBootcamp/homeworks_rust/target/release/deps/libnotify-e8ff9f59771096a8.rmeta: /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/inotify.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/null.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/poll.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/mod.rs /workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/timer.rs
+
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/inotify.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/null.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/poll.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/mod.rs:
+/workspace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/notify-4.0.18/src/debounce/timer.rs:

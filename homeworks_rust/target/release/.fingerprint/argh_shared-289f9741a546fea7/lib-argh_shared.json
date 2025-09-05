@@ -1,0 +1,1 @@
+{"rustc":12013579709055016942,"features":"[]","declared_features":"[\"serde\"]","target":5404069825254736253,"profile":1369601567987815722,"path":17943569495947429524,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/argh_shared-289f9741a546fea7/dep-lib-argh_shared","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
